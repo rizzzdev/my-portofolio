@@ -20,5 +20,3 @@ print(arr_enum)
 
 # format()
 print('Halo {age: .4f}, namaku'.format(age = 5))
-
-# enmunerate
