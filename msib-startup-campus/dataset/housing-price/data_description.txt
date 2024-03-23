@@ -1,3 +1,12 @@
+------ ELABORASI FEATURES DAN TIPE DATA ------
+
+Di bawah ini adalah features yang ada dalam dataset beserta penjelasan singkatnya. 
+Terdiri atas feature dengan tipe data kategorik dan tipe ata numerik.
+Features dengan tipe data kategorik dilengkapi dengan kategori apa saja dalam features tersebut.
+
+-------------------------------------------------
+
+
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
